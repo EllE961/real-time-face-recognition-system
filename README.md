@@ -15,7 +15,6 @@ A simple PyQt5 application for managing face data and running real-time face rec
 
 ## Demo
 [![Face Recognizer Demo](https://img.youtube.com/vi/2KPsMDKF8c4/0.jpg)](https://youtube.com/shorts/2KPsMDKF8c4)
-(Replace `VIDEO_ID` with your actual YouTube video ID.)
 
 ## Requirements
 - **Python 3.7+**
