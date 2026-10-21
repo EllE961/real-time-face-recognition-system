@@ -163,3 +163,9 @@ cython_debug/
 # at https://github.com/github/gitignore/blob/main/Global/JetBrains.gitignore
 # Uncomment if you want to ignore the entire .idea folder:
 #.idea/
+
+# Your own face photos stay local
+known_faces/
+
+# LFW encoding cache from scripts/evaluate_lfw.py
+results/.lfw_cache.pkl
