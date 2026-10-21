@@ -165,7 +165,7 @@ cython_debug/
 #.idea/
 
 # Your own face photos stay local
-known_faces/
+/known_faces/
 
 # LFW encoding cache from scripts/evaluate_lfw.py
 results/.lfw_cache.pkl
